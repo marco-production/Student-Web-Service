@@ -1,7 +1,8 @@
 # Student Web Service
 REST API created with ASP.Net Core 5.0
 
-### ASP.NET Core Web Service & EntityFramework Core Based Startup Template
+### ASP.NET Core Web API & EntityFramework Core Based Startup Template
+Microsoft Documentation: https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api
 
 ASP.NET makes it easy to build services that reach a broad range of clients, including browsers and mobile devices.
 
@@ -11,11 +12,11 @@ With ASP.NET you use the same framework and patterns to build both web pages and
 
 | Methods  | Endpoint                            | Description                        |
 | -------- | ------------------------------------| -----------------------------------|
-| GET      | ​/api​/Students                     | Get all Students                   |
-| GET      | ​/api​/Students/{id}                | Get a especific Student            |
-| POST     | ​/api​/Students                     | Add new Student                    |
-| PUT      | ​/api​/Students/{id}                | Update a Student                   |
-| DELETE   | ​/api​/Students/{id}                | Delete a Student                   |
+| GET      | ​/api​/students                     | Get all Students                   |
+| GET      | ​/api​/students/{id}                | Get a especific Student            |
+| POST     | ​/api​/students                     | Add new Student                    |
+| PUT      | ​/api​/students/{id}                | Update a Student                   |
+| DELETE   | ​/api​/students/{id}                | Delete a Student                   |
 
 ## Example Value | Schema
 ```
