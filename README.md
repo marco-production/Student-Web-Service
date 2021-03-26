@@ -1,7 +1,7 @@
-# Student-Web-Service
+# Student Web Service
 REST API created with ASP.Net Core 5.0
 
-# ASP.NET Core Web Service & EntityFramework Core Based Startup Template
+### ASP.NET Core Web Service & EntityFramework Core Based Startup Template
 
 ASP.NET makes it easy to build services that reach a broad range of clients, including browsers and mobile devices.
 
